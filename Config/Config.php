@@ -12,7 +12,7 @@ const DB_CHARSET = "utf8";
 
 /* Constante para encriptar y desencriptar el token, si la constante se crea despues de haber generado la KEY y se asigna otro valor a esta constante
 entonces habra un error de desencriptacion para el decode(JWT), LO RECOMENDABLE ES CREAR PRIMERO EL const Y DESPUES HACER EL encode y decode*/
-// const KEY_JWT = "hellou";
+// const KEY_JWT = "password";
 
 
 ?>

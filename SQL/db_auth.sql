@@ -66,8 +66,8 @@ CREATE TABLE `cliente_jwt` (
 --
 
 INSERT INTO `cliente_jwt` (`idcliente_jwt`, `nombre`, `apellido`, `email`, `password`, `created_at`, `status`) VALUES
-(1, 'Marcial', 'Francisco Nicolas', 'marcialf473@gmail.com', '03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4', '2023-07-24 11:44:47', 1),
-(2, 'Dora Elena', 'Galvan Ventura', 'dora.galvan@gmail.com', '03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4', '2023-07-24 11:46:54', 1);
+(1, 'Juan', 'MN', 'juan473@gmail.com', '03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4', '2023-07-24 11:44:47', 1),
+(2, 'Erick Fernandez', 'JF', 'erickjf@gmail.com', '03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4', '2023-07-24 11:46:54', 1);
 
 -- --------------------------------------------------------
 
